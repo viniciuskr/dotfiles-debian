@@ -7,14 +7,17 @@ Este repositório contém meus **dotfiles pessoais** e os **scripts de instalaç
 - `.bashrc`, `.zshrc`, `.gitconfig`, `.vimrc`, etc.
 - Arquivos de configuração para:
   - GNOME
-  - Kitty, Alacritty ou Hyper (terminals)
-  - VSCode e extensões
+  - Kitty
+  - VSCode
   - Conky
 - Scripts de instalação para:
-  - Pacotes essenciais
-  - Spotify, Docker, Git, etc.
-  - Fontes como JetBrains Mono
-  - Ferramentas de produtividade e terminal
+  - Spotify
+  - Docker
+  - Git
+  - VLC
+  - VSCode
+  - Cursor
+  - 
 
 ## 🚀 Como usar
 
